@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ic8RRGOf4VXv5GqpcSxcY1fDd3e/ul2AndA12rep0lT03dC4AnoXae6xcdOCVexj3Kv3V5vi4WNRZg53XQ826A==",
+  "dgSpecHash": "EMOKqcvJXwA2HaB19h6k7iddXKwSa81XUZZAFNtb43uDYzCv0mvNB2F1HwBB1fMRsubnXGAM8ccrW9KrJMyq2A==",
   "success": true,
   "projectFilePath": "/home/thenya/dotnet_projects/platform_microservices/PlatformService/PlatformService.csproj",
   "expectedPackageFiles": [
